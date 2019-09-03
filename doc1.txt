@@ -5,7 +5,11 @@ Deal With it! You need it.
 
 At All
 
+<<<<<<< HEAD
 Arallksaljdskaldjsa
+=======
+Arall
+>>>>>>> develop
 
 
 I don't know
